@@ -1,4 +1,4 @@
-A code refactoring exercise that attempts to improve the accessibility standards of the referenced codebase to include logical structured HTML elements, image alt attributes,consolidated CSS selectors and properties, sequential ordering of header elements,  
+A code refactoring exercise that attempts to improve the accessibility standards of the referenced codebase to include logical structured HTML elements, image alt attributes,consolidated CSS selectors and properties and sequential ordering of header elements.
 
 ---> Application link  https://imadeter.github.io/solid-rotary-phone/
 ---> Code refactor starter code link https://github.com/coding-boot-camp/urban-octo-telegram.git
